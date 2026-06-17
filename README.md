@@ -88,15 +88,15 @@ O sistema utiliza MySQL para armazenamento das informações.
 
 ### Tela Inicial
 
-![Tela Inicial](telainicial.png)
+![Tela Inicial](screenshots/telainicial.png)
 
 ### Login
 
-![Login](login.png)
+![Login](screenshots/login.png)
 
 ### Eventos
 
-![Eventos](eventos.png)
+![Eventos](screenshots/evento.png)
 
 ---
 
